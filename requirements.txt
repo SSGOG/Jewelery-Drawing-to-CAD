@@ -1,0 +1,16 @@
+# requirements.txt
+python==3.8.20
+opencv-python
+numpy
+matplotlib
+scikit-image
+torch
+torchvision
+open3d
+trimesh
+shapely
+pyclipper
+svgwrite
+rhino3dm
+Pillow
+cairosvg
